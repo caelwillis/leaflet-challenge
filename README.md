@@ -1,6 +1,6 @@
 # leaflet-challenge
 
-For this challenge, we were tasked to fetch earthquake data from a GeoJSON feed and display it on a Leaflet map. The code utilizes D3.js for fetching JSON data and Leaflet.js for mapping.
+For this challenge, we were tasked to fetch earthquake data from a GeoJSON feed and display it on a Leaflet map. The code utilizes D3 for fetching JSON data and Leaflet for mapping.
 
 First we fetch the data using D3. We are visualizing earthquakes from the past week from the following url: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson. This GeoJSON is made usable through D3.
 
